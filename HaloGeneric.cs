@@ -9,7 +9,7 @@ namespace TP_MODUL5_103022430003
     {
         public void SapaUser(String X)
         {
-            Console.Write("Halo User " + X);
+            Console.Write("Halo User " + X + "\n");
         }
     }
 }
